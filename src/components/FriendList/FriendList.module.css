@@ -13,6 +13,7 @@
   padding: 15px;
   box-shadow: 0 2px 6px rgb(0 0 0 / 20%);
   border-radius: 4px;
+  align-items: center;
 }
 
 .item:first-child {
@@ -21,6 +22,16 @@
 
 .status {
   border-radius: 50%;
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+}
+
+.online {
+  background-color: rgb(34, 151, 54);
+}
+.offline {
+  background-color: rgb(226, 45, 45);
 }
 
 .avatar {
