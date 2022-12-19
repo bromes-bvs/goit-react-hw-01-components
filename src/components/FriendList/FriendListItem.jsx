@@ -6,10 +6,9 @@ export default function FriendListItem({
   avatar = defaulAvatar,
   name,
   isOnline,
-  id,
 }) {
   return (
-    <li className={css.item} key={id}>
+    <li className={css.item}>
       <span
         className={`${css.status} ${isOnline ? css.online : css.offline}`}
       ></span>
@@ -23,5 +22,4 @@ FriendListItem.propTypes = {
   avatar: PropTypes.string,
   name: PropTypes.string.isRequired,
   isOnline: PropTypes.bool.isRequired,
-  id: PropTypes.number.isRequired,
 };
