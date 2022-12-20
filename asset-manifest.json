@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/bromes-bvs/goit-react-hw-01-components/static/css/main.7dd02ff7.css",
-    "main.js": "/bromes-bvs/goit-react-hw-01-components/static/js/main.09ab5705.js",
-    "index.html": "/bromes-bvs/goit-react-hw-01-components/index.html",
-    "main.7dd02ff7.css.map": "/bromes-bvs/goit-react-hw-01-components/static/css/main.7dd02ff7.css.map",
-    "main.09ab5705.js.map": "/bromes-bvs/goit-react-hw-01-components/static/js/main.09ab5705.js.map"
+    "main.css": "/goit-react-hw-01-components/static/css/main.7dd02ff7.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.09ab5705.js",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.7dd02ff7.css.map": "/goit-react-hw-01-components/static/css/main.7dd02ff7.css.map",
+    "main.09ab5705.js.map": "/goit-react-hw-01-components/static/js/main.09ab5705.js.map"
   },
   "entrypoints": [
     "static/css/main.7dd02ff7.css",
